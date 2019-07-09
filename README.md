@@ -1,5 +1,5 @@
 # Indexer-Search-Engine
-This is a project for couse information retriveal. 
+This is a project for course information retriveal. 
 
 pageRank.py is to sorted the urls beased on page rank algorithm. 
 
